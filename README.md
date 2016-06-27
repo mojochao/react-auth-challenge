@@ -9,9 +9,11 @@ authentication.
 ## Installation
 
 ```
-npm install
-npm start
-open http://localhost:3000
+$ git clone https://github.com/mojochao/react-auth-challenge.git
+$ cd react-auth-challenge
+$ npm install
+$ npm start
+$ open http://localhost:3000
 ```
 
 At this point you should review the requirements and implement the
