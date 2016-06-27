@@ -24,8 +24,8 @@ application.
 The application must provide the following four views:
 * an unprotected login view accessible at /login route
 * an unprotected view accessible at /public route
-* a protected view
-* a protected logout view 
+* a protected view accessible at /private route
+* a protected logout view  accessible at /logout route
 
 All views must contain a common header displaying:
 * 'sign in' or 'sign out' link depending on the user's auth state
